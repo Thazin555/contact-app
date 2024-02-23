@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&family=Roboto:wght@300;400;500;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .Center {
+    @apply flex justify-center items-center h-full;
+  }
+  .bg-gradient {
+    @apply bg-gradient-to-r from-purple-950 to-purple-600;
+  }
+  .bg-gradient-hover {
+    @apply bg-gradient-to-r from-purple-800 to-purple-400;
+  }
+  .badge {
+    @apply absolute top-3 left-0 bg-gradient text-white px-10 py-3 rounded-r-full text-lg tracking-wide;
+  }
+  .auth-heading {
+    @apply font-heading text-2xl tracking-wider mb-5 text-purple-700 font-[500];
+  }
+  .auth-text {
+    @apply mt-10 text-sm text-center text-violet-900;
+  }
+  .btn {
+    @apply text-sm font-semibold bg-gradient text-white px-4 py-2 rounded-lg flex items-center gap-2;
+  }
+}

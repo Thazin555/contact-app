@@ -1,0 +1,17 @@
+Edit
+- UI icons ထည့်မယ်
+- react icons library နဲ့ icons ထည့်မယ်
+- btn onClick ချိတ်မယ်
+- id နဲ့ edit လုပ်ရမှာဆိုတေ့ာ id ရှိလား onClick နဲ့ စမ်းမယ်
+- nav လုပ်မယ် form components ကို
+- Add contact ကို conditional နဲ့ nav လုပ်မယ်
+- from data တွေကို conditional နဲ့ ထည့်မယ်
+- ပြီးရင် form data ကို put method နဲ့ ပြန်ပြင်မယ်
+- home page ကို redirect မယ်
+
+Delete
+- UI icons ထည့်မယ်
+- react icons library နဲ့ icons ထည့်မယ်
+- btn onClick ချိတ်မယ်
+- id နဲ့ Delete လုပ်ရမှာဆိုတေ့ာ id ရှိလား onClick နဲ့ စမ်းမယ်
+- api နဲ့ id ပေးပြီး delete method နဲ့ လှမ်းဖျက်မယ်
